@@ -1,0 +1,16 @@
+package me.mioclient;
+
+import me.mioclient.m$$TrTFkzOB4Fo0w8SGr0aNe1Dz8TkTtUjfstLJ2T5OpfoBWT3SM57Rvf0Mme81BzLZnZW0doUODjgPVVgw6KWv6eBZfrD3j371R$m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8;
+import net.minecraft.class_1268;
+
+final class m$$TrTFkzOB4Fo0w8SGr0aNe1Dz8TkTtUjfstLJ2T5OpfoBWT3SM57Rvf0Mme81BzLZnZW0doUODjgPVVgw6KWv6eBZfrD3j371R$m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8$1
+extends m$$TrTFkzOB4Fo0w8SGr0aNe1Dz8TkTtUjfstLJ2T5OpfoBWT3SM57Rvf0Mme81BzLZnZW0doUODjgPVVgw6KWv6eBZfrD3j371R$m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8 {
+    public m$$TrTFkzOB4Fo0w8SGr0aNe1Dz8TkTtUjfstLJ2T5OpfoBWT3SM57Rvf0Mme81BzLZnZW0doUODjgPVVgw6KWv6eBZfrD3j371R$m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8$1(String string2) {
+    }
+
+    @Override
+    public class_1268 m$$x8h2gtxr5tQRlrgmF9m9DWDKA206pnEeSWRf8GU3AtV7oVA2DVclr9pdJMSBFysvbtA8jaXyGECBHm1Mo73N8lXL38ZHt9CxO() {
+        return class_1268.field_5808;
+    }
+}
+

@@ -1,0 +1,9 @@
+package me.mioclient;
+
+import me.mioclient.m$$RuwmWHVRItvxmMaDM8igR6sDB2JFqHNCoY5y1NrSiPSSXCNFq1zOr96XLrzw3eMOmD03qhHi90zZikPltVAfaBEzPrjsNnK82;
+
+public interface m$$GM2iOa3Dbn5qqD1k9xJMmpL5DxbgZpUBXcgnUGH1SCsNJaFBsQpzKkrQbdZMfL9DxPyJUQn1ek09yN11Wwd0mu4fZuUjdheV4
+extends m$$RuwmWHVRItvxmMaDM8igR6sDB2JFqHNCoY5y1NrSiPSSXCNFq1zOr96XLrzw3eMOmD03qhHi90zZikPltVAfaBEzPrjsNnK82 {
+    public Object m$$3VG3KISYTsMktbT7hhAxpEvQralZ8HIcrcBqDM8TeoYbsxlkJmmnij29aSoazLZwU7Rnasyd8pjLDJmLpIPjpHak8rBguXNVI(Object var1);
+}
+

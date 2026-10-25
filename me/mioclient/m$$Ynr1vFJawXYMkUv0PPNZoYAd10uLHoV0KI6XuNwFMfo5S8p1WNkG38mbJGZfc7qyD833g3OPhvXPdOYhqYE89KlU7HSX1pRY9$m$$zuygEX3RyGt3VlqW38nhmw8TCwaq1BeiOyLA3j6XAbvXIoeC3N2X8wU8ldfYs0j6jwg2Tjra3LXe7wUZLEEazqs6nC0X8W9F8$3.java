@@ -1,0 +1,12 @@
+package me.mioclient;
+
+import me.mioclient.m$$Ynr1vFJawXYMkUv0PPNZoYAd10uLHoV0KI6XuNwFMfo5S8p1WNkG38mbJGZfc7qyD833g3OPhvXPdOYhqYE89KlU7HSX1pRY9$m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8;
+
+final class m$$Ynr1vFJawXYMkUv0PPNZoYAd10uLHoV0KI6XuNwFMfo5S8p1WNkG38mbJGZfc7qyD833g3OPhvXPdOYhqYE89KlU7HSX1pRY9$m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8$3
+extends m$$Ynr1vFJawXYMkUv0PPNZoYAd10uLHoV0KI6XuNwFMfo5S8p1WNkG38mbJGZfc7qyD833g3OPhvXPdOYhqYE89KlU7HSX1pRY9$m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8 {
+    @Override
+    public float m$$VQeBiYQFF92st4KpYnl7JJZWvgzGjBP4Dd9SFTh4QWYtzxAIcX5Qp3MUZowrwkKm0ljNF9ZAlkex9P3KyEVeoeW2idm8qJEa8(float f) {
+        return -f;
+    }
+}
+

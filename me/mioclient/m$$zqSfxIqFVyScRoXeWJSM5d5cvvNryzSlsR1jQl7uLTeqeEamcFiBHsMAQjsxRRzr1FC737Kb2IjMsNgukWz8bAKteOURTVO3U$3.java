@@ -1,0 +1,17 @@
+package me.mioclient;
+
+import me.mioclient.m$$TZgQYOfileYzvjsLQ9Fdn0ZKXPPt43hknZD3yHKHsxHe8L6WDDVm4dArbek1an6T0zOqDEhIQb67DoIQhI3hLliFn0go1enFb;
+import me.mioclient.m$$zqSfxIqFVyScRoXeWJSM5d5cvvNryzSlsR1jQl7uLTeqeEamcFiBHsMAQjsxRRzr1FC737Kb2IjMsNgukWz8bAKteOURTVO3U;
+import net.minecraft.class_1297;
+import net.minecraft.class_4587;
+
+final class m$$zqSfxIqFVyScRoXeWJSM5d5cvvNryzSlsR1jQl7uLTeqeEamcFiBHsMAQjsxRRzr1FC737Kb2IjMsNgukWz8bAKteOURTVO3U$3
+extends m$$zqSfxIqFVyScRoXeWJSM5d5cvvNryzSlsR1jQl7uLTeqeEamcFiBHsMAQjsxRRzr1FC737Kb2IjMsNgukWz8bAKteOURTVO3U {
+    public m$$zqSfxIqFVyScRoXeWJSM5d5cvvNryzSlsR1jQl7uLTeqeEamcFiBHsMAQjsxRRzr1FC737Kb2IjMsNgukWz8bAKteOURTVO3U$3(String string2) {
+    }
+
+    @Override
+    public void m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8(m$$TZgQYOfileYzvjsLQ9Fdn0ZKXPPt43hknZD3yHKHsxHe8L6WDDVm4dArbek1an6T0zOqDEhIQb67DoIQhI3hLliFn0go1enFb m$$TZgQYOfileYzvjsLQ9Fdn0ZKXPPt43hknZD3yHKHsxHe8L6WDDVm4dArbek1an6T0zOqDEhIQb67DoIQhI3hLliFn0go1enFb, class_1297 class_12972, class_4587 class_45872) {
+    }
+}
+

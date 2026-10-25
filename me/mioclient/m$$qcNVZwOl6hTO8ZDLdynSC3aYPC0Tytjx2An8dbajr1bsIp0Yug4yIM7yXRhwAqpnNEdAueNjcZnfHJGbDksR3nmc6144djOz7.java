@@ -1,0 +1,31 @@
+package me.mioclient;
+
+import me.mioclient.m$$VNUxFdmTkySgC55SUm8AuE43GkoYdtoEdVCYZ8rZWUZMa5Mi3mcSOtw0aV4xhExsIlyZfemYIoxfdc4tghJwIOe7MEV6NfTGW;
+import net.minecraft.class_2338;
+
+public interface m$$qcNVZwOl6hTO8ZDLdynSC3aYPC0Tytjx2An8dbajr1bsIp0Yug4yIM7yXRhwAqpnNEdAueNjcZnfHJGbDksR3nmc6144djOz7 {
+    public void m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8(m$$VNUxFdmTkySgC55SUm8AuE43GkoYdtoEdVCYZ8rZWUZMa5Mi3mcSOtw0aV4xhExsIlyZfemYIoxfdc4tghJwIOe7MEV6NfTGW var1);
+
+    public void m$$3p7t07HFfQhhPeIzo51Vrab0JGrwd73SFr7EoQwxr1Mfye8wukWbKzL1WDMjaVxhZRFes7nnqRkUFwpugSRswrnx4a7uuTY3T(double var1);
+
+    public void m$$U07Rr2ofjRcmUA6QhPzXslXNOFufwtMiGJG8TZchIFZaWxl3hMhO2YZrsAsNAVIaRCanwYWuiNYgWd6uEu76NduHoJDwCl2Hk(m$$VNUxFdmTkySgC55SUm8AuE43GkoYdtoEdVCYZ8rZWUZMa5Mi3mcSOtw0aV4xhExsIlyZfemYIoxfdc4tghJwIOe7MEV6NfTGW var1);
+
+    public void m$$fpGL7c3hh9Wq0GjZGbUWsMGOqxjqgcrE05H4OUl0FpiGYoHnjcDrxjKurfxMvIVKaJ4GAuaRgVOLd2AOlBDxzNHQjDNpEjvwE(class_2338 var1);
+
+    public void m$$RXAAF1UWbqfR7ewT0aDm3TPaCz0dCiHb0DxBGpXfydpD7XJVmNPOC39TVZFtYD0y1Kk7kSAqamzarVyYw0fIIOHZ6y12QZgqf(class_2338 var1);
+
+    public void m$$8yf8hmWcwnV115J7w4KrjVhYE8HEuE4PB5pBB8AhjESSuPrGzBSt6CuiF6rDxr5CjNTMNCqTQSyatgOBJq2g3NS6lC9onnNXL();
+
+    public void m$$jEo7K9BsAz36gRbxJ6i1mDmSkJa8BzwTX7caII2qnw8vgoIevYisYjRmYdCkqs7lYHj7adVuoywOKqgS57Ow328sALR2lbOJQ(class_2338 var1);
+
+    public boolean m$$T5QjgVkXokAMhZVP1TJgOUAZr1F4IkUWPcj8rW8yv2Wz0RuU9vvXdfIZ82QkLiLNQuwut5TACp7Q9GkiqTGwMA3X7exWGnKD1();
+
+    public boolean m$$RVXdTPEBtwYgCgSacl3VK6lBAUyygB1olF72V6KfrF3G8aFX6KxoRVFhQIsgPbfpQfwCwmxBF9XUM4yTtoMPBC0d6RvccDjm1();
+
+    public boolean m$$hbpSAO8YrfjFQ3hDvGB1czBsMba2J3FvLoj8OY4AaBeawpWo3snlTKPnByukxuzxXBg724dNMUbwrf22JNTV82RHUm3pFOjtl();
+
+    public boolean m$$UMzUbts95JkNSxbhWStV8Ed2iBf6xXdhcMJydtC5FzfYzcUNcIIHBKoMpYbgjayJ9s5ljuWZEBJIG3CDBdN8Sc3J6Gbd29oyx(class_2338 var1);
+
+    public class_2338 m$$nBN1zcf4EDOJV5Rky9MJuGc7nFuXRd7lUaVnoM7MKbfN9Eoa53fRZLKaRreSCnfM7EkXfSAmha7zObBVITEm9CTQnF5r99VQc();
+}
+

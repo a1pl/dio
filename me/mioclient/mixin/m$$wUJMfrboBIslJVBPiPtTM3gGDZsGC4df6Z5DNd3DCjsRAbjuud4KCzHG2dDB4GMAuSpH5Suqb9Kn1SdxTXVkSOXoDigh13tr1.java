@@ -1,0 +1,58 @@
+package me.mioclient.mixin;
+
+import me.mioclient.m$$RuwmWHVRItvxmMaDM8igR6sDB2JFqHNCoY5y1NrSiPSSXCNFq1zOr96XLrzw3eMOmD03qhHi90zZikPltVAfaBEzPrjsNnK82;
+import me.mioclient.m$$U06wAdbal9c2tydaZHi7748TVcVwW2bZgovjk7GFooaETKTiOhGg9yB0lZ1Y8aexU4VR3M8NH2waRfLg74cum1hWwGVHrgrQm;
+import me.mioclient.m$$YZAjSEUS388YlLEL4zXt5nPTobxPVIIL5hjsi0sCAOxzhpCP8kX10wPJML4c8Hc8xhMA8ZQx6EbeSYTCVELEUt4jFGFpVmJk7;
+import me.mioclient.m$$gb6bwZF4wCl9x3wMViBdlDB0CjnOJJwfyX0rJblHgyBEWcltK4VkEHyvBz7fOAloUcBf2p8hoHRfRhqeX418hpsHCHfIA5qdU;
+import net.minecraft.class_309;
+import net.minecraft.class_310;
+import org.spongepowered.asm.mixin.Final;
+import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.Shadow;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
+
+/*
+ * Illegal identifiers - consider using --renameillegalidents true
+ */
+@Mixin(value={class_309.class})
+public class m$$wUJMfrboBIslJVBPiPtTM3gGDZsGC4df6Z5DNd3DCjsRAbjuud4KCzHG2dDB4GMAuSpH5Suqb9Kn1SdxTXVkSOXoDigh13tr1 {
+    @Shadow
+    @Final
+    private class_310 field_1678;
+    private static int \u0101\u0201\u0301\u0401\u0601\u0701\u0801\u0901\u0a01\u0b01\u0e01\u0f01\u1001\u1101\u1201\u1301\u1401\u1501\u1601\u1701\u1801\u1901\u1a01\u1b01\u1c01\u1d01\u1e01\u1f01\u2101\u2201\u2301\u2401\u2501\u2701\u2801\u2901\u2a01\u2b01\u2c01\u2d01\u2e01\u2f01\u3001\u3101\u3201\u3301\u3401\u3501\u3601\u3701\u3801\u3901\u3a01\u3b01\u3c01\u3d01\u3e01\u3f01\u4001\u4101\u4201\u4301\u4401\u4501\u4601\u4701\u4801\u4901\u4a01\u4b01\u4c01\u4d01\u4e01\u4f01\u5001\u5101\u5201\u5301\u5401\u5501\u5601\u5701\u5801\u5901\u5a01\u5b01\u5c01\u5d01\u5e01\u5f01\u6001\u6101\u6201\u6301\u6401\u6501\u6601\u6701\u6801\u6901\u6a01\u6b01\u6c01\u6d01\u6e01\u6f01\u7001\u7101\u7201\u7301\u7401\u7501\u7601\u7701\u7801\u7901\u7a01\u7b01\u7c01\u7d01\u7e01\u7f01\u8001\u8101\u8201\u8301\u8401\u8501\u8601\u8701\u8801\u8901\u8a01\u8b01\u8c01\u8d01\u8e01\u8f01\u9001\u9101\u9201\u9301\u9401\u9501\u9601\u9701\u9801\u9901\u9a01\u9b01\u9c01\u9d01\u9e01\u9f01\ua001\ua101\ua201\ua301\ua401\ua501\ua601\ua701\ua801\ua901\uaa01\uab01\uac01\uad01\uae01\uaf01\ub001\ub101\ub201\ub301\ub401\ub501\ub601\ub701\ub801\ub901\uba01\ubb01\ubc01\ubd01 = 91323207;
+
+    @Inject(method={"onKey"}, at={@At(value="TAIL")}, cancellable=true)
+    private void m$$sLWT6jeaSJQCplj6UIZCOGxzBCp5guG2McQUL5IbYQpvZz7aqitOtCnf7fwF1ydJ0jFtgp29gWEVFb9oEHpUQqMkfkMNvkpgz(long l, int n, int n2, int n3, int n4, CallbackInfo callbackInfo) {
+        if (n < 0 || this.field_1678.field_1755 != null || n3 != 1) {
+            return;
+        }
+        m$$gb6bwZF4wCl9x3wMViBdlDB0CjnOJJwfyX0rJblHgyBEWcltK4VkEHyvBz7fOAloUcBf2p8hoHRfRhqeX418hpsHCHfIA5qdU m$$gb6bwZF4wCl9x3wMViBdlDB0CjnOJJwfyX0rJblHgyBEWcltK4VkEHyvBz7fOAloUcBf2p8hoHRfRhqeX418hpsHCHfIA5qdU = new m$$gb6bwZF4wCl9x3wMViBdlDB0CjnOJJwfyX0rJblHgyBEWcltK4VkEHyvBz7fOAloUcBf2p8hoHRfRhqeX418hpsHCHfIA5qdU(n, false);
+        m$$RuwmWHVRItvxmMaDM8igR6sDB2JFqHNCoY5y1NrSiPSSXCNFq1zOr96XLrzw3eMOmD03qhHi90zZikPltVAfaBEzPrjsNnK82.m$$YRbUM6tecPtUDY7DSPZVtONHRhV70ipxncY5snxpVCpJ34uRutjOiX7B2p7ZdwIYZ166AxTGczxhPYrwDz2CP8xzq3DMcUpFg.m$$ZuBRedSvg2vZNbjw0oWUYtMytZUDOXa47kuBcrtin8su9PIZ64xtjVRVnJRUB6pj9PyQjcOtMo33KRWCgx74W96A1HnDNJ2gM(m$$gb6bwZF4wCl9x3wMViBdlDB0CjnOJJwfyX0rJblHgyBEWcltK4VkEHyvBz7fOAloUcBf2p8hoHRfRhqeX418hpsHCHfIA5qdU);
+        if (m$$gb6bwZF4wCl9x3wMViBdlDB0CjnOJJwfyX0rJblHgyBEWcltK4VkEHyvBz7fOAloUcBf2p8hoHRfRhqeX418hpsHCHfIA5qdU.m$$NF6xtTI3OjDvBK2xdxb442FDgGTKuynfg4hYmhZivsRxXqIyqHo9S3Uggu68LNdJlD43EZq4WbHdJMPudCSa6eG0FcrLzTMhT()) {
+            callbackInfo.cancel();
+        }
+    }
+
+    @Inject(method={"onChar"}, at={@At(value="HEAD")})
+    public void m$$sLWT6jeaSJQCplj6UIZCOGxzBCp5guG2McQUL5IbYQpvZz7aqitOtCnf7fwF1ydJ0jFtgp29gWEVFb9oEHpUQqMkfkMNvkpgz(long l, int n, int n2, CallbackInfo callbackInfo) {
+        if (this.field_1678.field_1755 != null || l != this.field_1678.method_22683().method_4490()) {
+            return;
+        }
+        m$$YZAjSEUS388YlLEL4zXt5nPTobxPVIIL5hjsi0sCAOxzhpCP8kX10wPJML4c8Hc8xhMA8ZQx6EbeSYTCVELEUt4jFGFpVmJk7 m$$YZAjSEUS388YlLEL4zXt5nPTobxPVIIL5hjsi0sCAOxzhpCP8kX10wPJML4c8Hc8xhMA8ZQx6EbeSYTCVELEUt4jFGFpVmJk7 = new m$$YZAjSEUS388YlLEL4zXt5nPTobxPVIIL5hjsi0sCAOxzhpCP8kX10wPJML4c8Hc8xhMA8ZQx6EbeSYTCVELEUt4jFGFpVmJk7(n);
+        m$$RuwmWHVRItvxmMaDM8igR6sDB2JFqHNCoY5y1NrSiPSSXCNFq1zOr96XLrzw3eMOmD03qhHi90zZikPltVAfaBEzPrjsNnK82.m$$YRbUM6tecPtUDY7DSPZVtONHRhV70ipxncY5snxpVCpJ34uRutjOiX7B2p7ZdwIYZ166AxTGczxhPYrwDz2CP8xzq3DMcUpFg.m$$ZuBRedSvg2vZNbjw0oWUYtMytZUDOXa47kuBcrtin8su9PIZ64xtjVRVnJRUB6pj9PyQjcOtMo33KRWCgx74W96A1HnDNJ2gM(m$$YZAjSEUS388YlLEL4zXt5nPTobxPVIIL5hjsi0sCAOxzhpCP8kX10wPJML4c8Hc8xhMA8ZQx6EbeSYTCVELEUt4jFGFpVmJk7);
+    }
+
+    @Inject(method={"processF3"}, at={@At(value="INVOKE", target="Lnet/minecraft/client/gui/hud/ChatHud;clear(Z)V", shift=At.Shift.BEFORE)})
+    private void m$$mxmQX5hox2xjlqJLqeOvwQPWw9WJpPYLpjooKpGENTSQ7j6n9A1BL4KWCvUAEeSQRlP7NeTZrGNFIgg0ZShxWRMjK5p4jBs5S(int n, CallbackInfoReturnable callbackInfoReturnable) {
+        m$$U06wAdbal9c2tydaZHi7748TVcVwW2bZgovjk7GFooaETKTiOhGg9yB0lZ1Y8aexU4VR3M8NH2waRfLg74cum1hWwGVHrgrQm.m$$CL6NYLIBLHbr0K8gAcfR5vcRPCgK4WY3gxvoax8WaZR2pMnNUADyWNtdI0csY7EYyxIC3tCmJtZb39OMmbKvhPvXI5lQbqjVR = true;
+    }
+
+    @Inject(method={"processF3"}, at={@At(value="INVOKE", target="Lnet/minecraft/client/gui/hud/ChatHud;clear(Z)V", shift=At.Shift.AFTER)})
+    private void m$$si2aX2X8Dch8BrpPv8C89mK3tHVjy6by3nrWOWcgTRS3w0VNjCaT6TzOK1vZM0JWisN0y7s9j2U6LywGMjYOWySMMEgPZT7WH(int n, CallbackInfoReturnable callbackInfoReturnable) {
+        m$$U06wAdbal9c2tydaZHi7748TVcVwW2bZgovjk7GFooaETKTiOhGg9yB0lZ1Y8aexU4VR3M8NH2waRfLg74cum1hWwGVHrgrQm.m$$CL6NYLIBLHbr0K8gAcfR5vcRPCgK4WY3gxvoax8WaZR2pMnNUADyWNtdI0csY7EYyxIC3tCmJtZb39OMmbKvhPvXI5lQbqjVR = false;
+    }
+}
+

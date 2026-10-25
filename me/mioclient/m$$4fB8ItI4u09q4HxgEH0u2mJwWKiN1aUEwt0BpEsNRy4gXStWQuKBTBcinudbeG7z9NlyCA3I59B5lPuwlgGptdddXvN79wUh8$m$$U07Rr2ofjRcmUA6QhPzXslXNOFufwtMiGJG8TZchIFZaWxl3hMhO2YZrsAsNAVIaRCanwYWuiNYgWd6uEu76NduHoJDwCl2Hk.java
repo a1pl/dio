@@ -1,0 +1,8 @@
+package me.mioclient;
+
+import java.util.function.BiPredicate;
+
+interface m$$4fB8ItI4u09q4HxgEH0u2mJwWKiN1aUEwt0BpEsNRy4gXStWQuKBTBcinudbeG7z9NlyCA3I59B5lPuwlgGptdddXvN79wUh8$m$$U07Rr2ofjRcmUA6QhPzXslXNOFufwtMiGJG8TZchIFZaWxl3hMhO2YZrsAsNAVIaRCanwYWuiNYgWd6uEu76NduHoJDwCl2Hk
+extends BiPredicate {
+}
+

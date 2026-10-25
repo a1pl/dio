@@ -1,0 +1,10 @@
+package me.mioclient;
+
+import me.mioclient.m$$3sBc0AGrs2ebua4LJ31UEN19pmtFjO5sCoS3J0mXvxzM1s7esoo6Lyejeqfb04pjk0MilLsNHRzSZ0wZLtCKAxzKH1IlRbdOU;
+
+public interface m$$0tP9c2IsfzpfSz44URX598Gn4UemlEO2MdIvrk9wsdbehD5fONSMhyQ7cFFpOQK8qBVVp3WYMgrNOGtO7PGZaPUKxSQXhpqTE {
+    public void m$$zuygEX3RyGt3VlqW38nhmw8TCwaq1BeiOyLA3j6XAbvXIoeC3N2X8wU8ldfYs0j6jwg2Tjra3LXe7wUZLEEazqs6nC0X8W9F8(m$$3sBc0AGrs2ebua4LJ31UEN19pmtFjO5sCoS3J0mXvxzM1s7esoo6Lyejeqfb04pjk0MilLsNHRzSZ0wZLtCKAxzKH1IlRbdOU var1);
+
+    public boolean m$$HjtzBB83GH0dRXLC6D63ONdC88CsZ2SCjJzpWo5T2reDeU9L0VXYaVH7YaUlVPpuPLDn5gcuk77rLGl5TuJmR7w66WMimcId8();
+}
+
